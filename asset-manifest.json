@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spoonacular/static/css/main.730ae63f.css",
+    "main.js": "/spoonacular/static/js/main.c2320e43.js",
+    "index.html": "/spoonacular/index.html",
+    "main.730ae63f.css.map": "/spoonacular/static/css/main.730ae63f.css.map",
+    "main.c2320e43.js.map": "/spoonacular/static/js/main.c2320e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.730ae63f.css",
+    "static/js/main.c2320e43.js"
+  ]
+}
