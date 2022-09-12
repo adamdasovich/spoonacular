@@ -1,9 +1,6 @@
 import React, { useState } from 'react'
 import MealList from './MealList'
 
-const APP_ID = 'ffeb7371'
-const API_KEY = '5ef48bf02afcf3bd8d8e5548604fb459'
-
 const App = () => {
 	const [mealData, setMealData] = useState(null)
 	const [calories, setCalories] = useState(2000)
