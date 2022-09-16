@@ -54,6 +54,11 @@ h2 {
 	margin-bottom: 2rem;
 }
 
+h3 {
+	margin-bottom: 1rem;
+	margin-top: 2rem;
+}
+
 .nutrients ul {
 	display: flex;
 	width: 35rem;
@@ -99,6 +104,52 @@ a:hover {
 	cursor: pointer;
 	background-color: hsl(240, 100%, 25%);
 }
+
+.wineTitle {
+	text-align: left;
+	margin-left: 4rem;
+	margin-bottom: 2rem;
+}
+
+.wineDescription {
+	display: flex;
+	flex-direction: column;
+	padding: 2rem;
+	margin: 0 1rem;
+	align-items: center;
+	max-width: 18rem;
+	box-shadow: 0 4px 8px 2px rgba(77,77,77, 0.15);
+}
+
+.winePrice {
+	text-align: left;
+	margin-top: 2rem;
+	margin-left: 4rem;
+	margin-bottom: 2rem;
+	font-weight: bolder;
+	font-size: large;
+}
+
+.wineList {
+	display: flex;
+	flex-direction: column;
+	padding: .5rem;
+	margin: 1rem;
+	max-width: 18rem;
+	box-shadow: 0 4px 8px 2px rgba(77,77,77, 0.15);
+}
+
+wineText {
+	display: flex;
+	flex-direction: column;
+	padding: .5rem;
+	margin: 1rem;
+	text-align: left;
+	margin-bottom: 1rem;
+}
+
+
+
 
 @media only screen and (max-width: 550px) {
 	.nutrients ul {
